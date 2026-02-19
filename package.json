@@ -3,5 +3,8 @@
   "devDependencies": {
     "@playwright/test": "^1.58.2",
     "@types/node": "^25.3.0"
+  },
+  "dependencies": {
+    "@typescript/native-preview": "^7.0.0-dev.20260219.1"
   }
 }
