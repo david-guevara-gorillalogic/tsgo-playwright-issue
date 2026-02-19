@@ -23,7 +23,7 @@
 
     ```typescript
     test("has title", async ({ helper }) => {
-      await heklper();
+      await helper();
     });
     ```
 
